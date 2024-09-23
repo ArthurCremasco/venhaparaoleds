@@ -24,4 +24,5 @@ public class Concursos {
     private String codigoConcurso;
 
     private List<String> vagas;
+
 }
